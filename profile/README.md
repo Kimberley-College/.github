@@ -12,4 +12,4 @@ Prom - Nick, Jamie, Dalu, John, Dustin, Roch, Adam
 BPhO - Nick, Jamie
 
 ## Join Us!
-If you want to join the organisation as a current student, or have any code linked to the college you'd like to share drop me an email - nick@prom.kim
+If you want to join the organisation as a current student, or have any code linked to the college you'd like to share drop me an email - hello@nicholasg.me
